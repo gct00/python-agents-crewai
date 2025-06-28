@@ -1,0 +1,6 @@
+crewai
+openai
+crewai-tools
+black
+pylint
+bandit 
