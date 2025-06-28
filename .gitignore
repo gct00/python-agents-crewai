@@ -1,1 +1,5 @@
 .env .venv
+
+OPENAI_API_KEY=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
+OPENAI_API_BASE=https://openrouter.ai/api/v1
+OPENAI_MODEL_NAME=mistralai/mistral-7b-instruct
